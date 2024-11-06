@@ -1,0 +1,427 @@
+{
+  "main": {
+    "id": "2c01435b43eba27e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2773d689fd958e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4d234e25dcbd2b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Metodos Numericos/PDFs/Tema 5.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Tema 5"
+            }
+          },
+          {
+            "id": "8c99f1d8ee097564",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodos Numericos/Practica/Practico 5.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Practico 5.4"
+            }
+          },
+          {
+            "id": "80bc017cf99734c0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Metodos Numericos/PDFs/Hoja de fórmulas 2021.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Hoja de fórmulas 2021"
+            }
+          },
+          {
+            "id": "e1415d048f0f0339",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodos Numericos/Practica/Practico 7.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Practico 7.1"
+            }
+          },
+          {
+            "id": "f402b28e8ea92d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodos Numericos/Teoria/Interpolación Numerica con Newton-Gregory Ascendente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interpolación Numerica con Newton-Gregory Ascendente"
+            }
+          },
+          {
+            "id": "97062802d20bc164",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodos Numericos/Teoria/Interpolación Numerica con Newton-Gregory Descendente.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interpolación Numerica con Newton-Gregory Descendente"
+            }
+          },
+          {
+            "id": "ad081b0257b68b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metodos Numericos/Practica/Practico 6.1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practico 6.1"
+            }
+          },
+          {
+            "id": "5c3965b0febac57e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Metodos Numericos/PDFs/Lagrange e Interpolación inversa.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Lagrange e Interpolación inversa"
+            }
+          },
+          {
+            "id": "ab0f437ea22b95e7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Metodos Numericos/PDFs/TP 4 Tema 7.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "TP 4 Tema 7"
+            }
+          },
+          {
+            "id": "2c2c69e432212c45",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BD2/APUNTES ESTEBAN.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "APUNTES ESTEBAN"
+            }
+          },
+          {
+            "id": "131c492710348c94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-31 16.35.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-31 16.35.41.excalidraw"
+            }
+          },
+          {
+            "id": "2333fc48162e5f74",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-01 17.20.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-01 17.20.56.excalidraw"
+            }
+          },
+          {
+            "id": "253ab48f6164f83d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Tasks"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edbb1ec5f3dc0ea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aecc4c83176167ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e0218ce4b4d5af8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4b7198419236386a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "fb6b61325b50065b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce6f7f4f609835cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "108775c98e3a6774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09b73235e62a616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Preguntero.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preguntero"
+            }
+          },
+          {
+            "id": "f6fd7db0dce6999f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes/Apuntes/16-10-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 16-10-2024"
+            }
+          },
+          {
+            "id": "679b99a544dfedba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redes/Apuntes/16-10-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 16-10-2024"
+            }
+          },
+          {
+            "id": "1b7452bcdaed3323",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "119fe8b2bc2cd189",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes/Apuntes/16-10-2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 16-10-2024"
+            }
+          },
+          {
+            "id": "2a6cc1ddcaaf01cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BD2/BD2_FreixesHutchingsMatiasEzequiel_PrimerParcial_tema02.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "BD2_FreixesHutchingsMatiasEzequiel_PrimerParcial_tema02"
+            }
+          },
+          {
+            "id": "abe4f1d9bdd8eaed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6e0218ce4b4d5af8",
+  "lastOpenFiles": [
+    "BD2/APUNTES ESTEBAN.pdf",
+    "Sin título.md",
+    "Metodos Numericos/Practica/Practico 6.3.md",
+    "Metodos Numericos/PDFs/comprobanteDiplomaturaCuota7.png",
+    "Metodos Numericos/PDFs/comprobanteDiplomaturaCuota7.png.crdownload",
+    "Tasks.md",
+    "Diplomatura/2-10 Modulo 5.md",
+    "Metodos Numericos/PDFs/Tema 5.pdf",
+    "Excalidraw/Drawing 2024-11-01 17.20.56.excalidraw.md",
+    "Metodos Numericos/PDFs/autoencoder-aves_v1.ipynb",
+    "Metodos Numericos/PDFs/Sin confirmar 447615.crdownload",
+    "Metodos Numericos/PDFs/LaboratoriosParte1.pdf.crdownload",
+    "Metodos Numericos/PDFs/LaboratoriosParte1 (1).pdf",
+    "Metodos Numericos/PDFs/LaboratoriosParte1 (1).pdf.crdownload",
+    "Excalidraw/Drawing 2024-10-31 16.35.41.excalidraw.md",
+    "Metodos Numericos/PDFs/LaboratoriosParte1.pdf",
+    "Metodos Numericos/PDFs/MetodosNumericosGrupo9 (1).pdf",
+    "Metodos Numericos/PDFs/MetodosNumericosGrupo9 (1).pdf.crdownload",
+    "Metodos Numericos/Practica/Practico 7.1.md",
+    "Trabajo/Hubby.md",
+    "Metodos Numericos/Practica/Practico 7.2.md",
+    "Metodos Numericos/Temas 2do Parcial.md",
+    "Redes/Correo Investigación.md",
+    "Metodos Numericos/Temas 1er Parcial.md",
+    "Metodos Numericos/Formulas Markdown.md",
+    "Metodos Numericos/Practica/Practico 4.2.2.md",
+    "Metodos Numericos/Practica/Practico 4.2.1.md",
+    "Metodos Numericos/Practica/Practico 5.1.md",
+    "Metodos Numericos/Practica/Practico 4.3.md",
+    "Metodos Numericos/Practica/Practico 4.4.md",
+    "Metodos Numericos/Practica/Practico 5.2.md",
+    "Metodos Numericos/Practica/Practico 5.4.md",
+    "Metodos Numericos/Practica/Practico 6.1.md",
+    "Metodos Numericos/Practica/Practico 4.2.md",
+    "Metodos Numericos/Teoria/TEMA 4.1.md",
+    "Metodos Numericos/Teoria/Interpolación Numerica con Newton-Gregory Ascendente.md",
+    "Metodos Numericos/Practica/Practico 6.2.md",
+    "BD2/Pasted image 20241022160625.png",
+    "images/grafico_area_rio_simpsom.png",
+    "BD2/Pasted image 20241022131859.png",
+    "BD2/Pasted image 20241022131849.png",
+    "BD2/Pasted image 20241022124722.png",
+    "BD2/Pasted image 20241022124714.png",
+    "BD2/Pasted image 20241022122114.png",
+    "BD2/Pasted image 20241022122104.png",
+    "BD2/Pasted image 20241022122044.png"
+  ]
+}

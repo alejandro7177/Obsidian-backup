@@ -1,0 +1,60 @@
+ESPERADO UPLOAD DOCUMENT
+
+headers: {'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI5MjY1ODUyLCJpYXQiOjE3MjkyNjIyNTIsImp0aSI6ImNhZDUyZWUxYTM3ZDQ4ZjQ5MDQ3NTkxNDQ2MWI0MTY0IiwidXNlcl9pZCI6MjF9.3WGdeSadFRXByLaO0aiFBVbFoc2ALlRG9fNVG0lzhqo', 'user-agent': 'PostmanRuntime/7.39.1', 'accept': '*/*', 'cache-control': 'no-cache', 'postman-token': '4aae0911-5c2f-4336-b8e7-8c07578d58fe', 'host': '0.0.0.0:8000', 'accept-encoding': 'gzip, deflate, br', 'connection': 'keep-alive', 'content-type': 'multipart/form-data; boundary=--------------------------019906067999558678920205', 'content-length': '272158'}
+method: POST
+url: http://0.0.0.0:8000/upload_document/
+Body (Binario): b'----------------------------019906067999558678920205\r\nContent-Disposition: form-data; name="file"; filename="Gu\xc3\xada de laboratorio 2 - 2024.pdf"\r\nContent-Type: application/pdf\r\n\r\n%PDF-1.7\r\n%\xb5\xb5\xb5\xb5\r\n1 0 obj\r\n<</Type/Catalog/Pages 2 0 R/Lang(es-ES) /StructTreeRoot 48 0 R/MarkInfo<</Marked true>>/Metadata 293 0 R/ViewerPreferences 294 0 R>>\r\nendobj\r\n2 0 obj\r\n<</Type/Pages/Count 3/Kids[ 3 0 R 29 0 R 45 0 R] >>\r\nendobj\r\n3 0 obj\r\n<</Type/Page/Parent 2 0 R/Resources<</Font<</F1 5 0 R/F2 9 0 R/F3 15 0 R/F4 17 0 R/F5 19 0 R/F6 24 0 R>>/ExtGState<</GS7 7 0 R/GS8 8 0 R>>/XObject<</Image11 11 0 R/Image13 13 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 596.04 842.52] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>>\r\nendobj\r\n4 0 obj\r\n<</Filter/FlateDecode/Length 3547>>\r\nstream\r\nx\x9c\xcd]K\x8f\xe4\xb6\x11\xbe\x0f0\xffA\xc7i#\xc3\x11\x9f\xa2\x02\xc3 ...
+Content-Disposition: form-data; name="collection_name"\r\n\r\ndefault\r\n----------------------------019906067999558678920205\r\nContent-Disposition: form-data; name="model"\r\n\r\nOPENIA\r\n----------------------------019906067999558678920205--\r\n'
+query_params: {}
+cookies: {}
+DeprecationWarning: `metadata_field` is about to be deprecated, please set `enable_dynamic_field`=True instead.
+Response Status Code: 200
+Response Headers: MutableHeaders({'content-type': 'application/json'})
+Body (Texto):
+
+ESPERADO CREATE COLLECTION
+headers: {'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI5MjY1ODUyLCJpYXQiOjE3MjkyNjIyNTIsImp0aSI6ImNhZDUyZWUxYTM3ZDQ4ZjQ5MDQ3NTkxNDQ2MWI0MTY0IiwidXNlcl9pZCI6MjF9.3WGdeSadFRXByLaO0aiFBVbFoc2ALlRG9fNVG0lzhqo', 'user-agent': 'PostmanRuntime/7.39.1', 'accept': '*/*', 'cache-control': 'no-cache', 'postman-token': '9966be6d-5515-4dfd-a5a6-592ffe0f3dcb', 'host': '0.0.0.0:8000', 'accept-encoding': 'gzip, deflate, br', 'connection': 'keep-alive', 'content-type': 'multipart/form-data; boundary=--------------------------767768634132390998163636', 'content-length': '177'}
+method: POST
+url: http://0.0.0.0:8000/create_collection/
+body: ----------------------------767768634132390998163636
+Content-Disposition: form-data; name="collection_name"
+
+default
+----------------------------767768634132390998163636--
+
+query_params: {}
+cookies: {}
+Response Status Code: 200
+Response Headers: MutableHeaders({'content-length': '39', 'content-type': 'application/json'})
+Response Body: {"message":"collection already exists"}
+
+
+RECIBIDO UPLOAD FILE
+headers: {'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI5MjY1ODUyLCJpYXQiOjE3MjkyNjIyNTIsImp0aSI6ImNhZDUyZWUxYTM3ZDQ4ZjQ5MDQ3NTkxNDQ2MWI0MTY0IiwidXNlcl9pZCI6MjF9.3WGdeSadFRXByLaO0aiFBVbFoc2ALlRG9fNVG0lzhqo', 'user-agent': 'PostmanRuntime/7.39.1', 'accept': '*/*', 'cache-control': 'no-cache', 'postman-token': '4411e68b-aaf1-41bc-b87e-22126984787b', 'host': '0.0.0.0:8000', 'accept-encoding': 'gzip, deflate, br', 'connection': 'keep-alive', 'content-type': 'multipart/form-data; boundary=--------------------------019455126667808809080891', 'content-length': '272158'}
+method: POST
+url: http://0.0.0.0:8000/upload_document/
+body (binario):  b'----------------------------019455126667808809080891\r\nContent-Disposition: form-data; name="file"; filename="Gu\xc3\xada de laboratorio 2 - 2024.pdf"\r\nContent-Type: application/pdf\r\n\r\n%PDF-1.7\r\n%\xb5\xb5\xb5\xb5\r\n1 0 obj\r\n<</Type/Catalog/Pages 2 0 R/Lang(
+nContent-Disposition: form-data; name="collection_name"\r\n\r\ndefault\r\n----------------------------019455126667808809080891\r\nContent-Disposition: form-data; name="model"\r\n\r\nOPENIA\r\n----------------------------019455126667808809080891--\r\n'
+query_params: {}
+cookies: {}
+DeprecationWarning: `metadata_field` is about to be deprecated, please set `enable_dynamic_field`=True instead.
+Response Status Code: 200
+Response Headers: MutableHeaders({'content-type': 'application/json'})
+Response Body: {"filename":"Guía de laboratorio 2 - 2024.pdf","text":["1 \nCompetencias 
+
+RECIBIDO CREATE COLLECTION
+headers: {'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI5MjY1ODUyLCJpYXQiOjE3MjkyNjIyNTIsImp0aSI6ImNhZDUyZWUxYTM3ZDQ4ZjQ5MDQ3NTkxNDQ2MWI0MTY0IiwidXNlcl9pZCI6MjF9.3WGdeSadFRXByLaO0aiFBVbFoc2ALlRG9fNVG0lzhqo', 'user-agent': 'PostmanRuntime/7.39.1', 'accept': '*/*', 'cache-control': 'no-cache', 'postman-token': '4ce42dbe-90d9-413b-89a6-0a1878be11ee', 'host': '0.0.0.0:8000', 'accept-encoding': 'gzip, deflate, br', 'connection': 'keep-alive', 'content-type': 'multipart/form-data; boundary=--------------------------729162045293910723733969', 'content-length': '177'}
+method: POST
+url: http://0.0.0.0:8000/create_collection/
+body: ----------------------------729162045293910723733969
+Content-Disposition: form-data; name="collection_name"
+
+default
+----------------------------729162045293910723733969--
+
+query_params: {}
+cookies: {}
+Response Status Code: 200
+Response Headers: MutableHeaders({'content-type': 'application/json'})
+Response Body: {"message":"collection already exists"}
+
