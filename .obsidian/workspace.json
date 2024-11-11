@@ -141,12 +141,14 @@
             "id": "2c2c69e432212c45",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "BD2/APUNTES ESTEBAN.pdf"
+                "file": "Diplomatura/Diplomatura 11-9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "APUNTES ESTEBAN"
+              "icon": "lucide-file",
+              "title": "Diplomatura 11-9"
             }
           },
           {
@@ -355,7 +357,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -375,11 +378,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e0218ce4b4d5af8",
+  "active": "2c2c69e432212c45",
   "lastOpenFiles": [
+    "Metodos Numericos/Modelo de Parcial 2.md",
+    "Diplomatura/Diplomatura 11-9.md",
+    "Metodos Numericos/Practica/Practico 4.2.1.md",
+    "Metodos Numericos/Modelo de Parcial.md",
+    "Metodos Numericos/Practica/Practico 6.2.md",
+    "Metodos Numericos/Practica/Practico 6.3.md",
+    "Metodos Numericos/Practica/Practico 5.1.md",
+    "Metodos Numericos/Practica/Practico 5.2.md",
+    "Metodos Numericos/Practica/Practico 5.4.md",
+    "Metodos Numericos/Practica/Practico 6.1.md",
+    "Metodos Numericos/Practica/Practico 4.2.2.md",
     "BD2/APUNTES ESTEBAN.pdf",
     "Sin título.md",
-    "Metodos Numericos/Practica/Practico 6.3.md",
     "Metodos Numericos/PDFs/comprobanteDiplomaturaCuota7.png",
     "Metodos Numericos/PDFs/comprobanteDiplomaturaCuota7.png.crdownload",
     "Tasks.md",
@@ -394,7 +407,6 @@
     "Excalidraw/Drawing 2024-10-31 16.35.41.excalidraw.md",
     "Metodos Numericos/PDFs/LaboratoriosParte1.pdf",
     "Metodos Numericos/PDFs/MetodosNumericosGrupo9 (1).pdf",
-    "Metodos Numericos/PDFs/MetodosNumericosGrupo9 (1).pdf.crdownload",
     "Metodos Numericos/Practica/Practico 7.1.md",
     "Trabajo/Hubby.md",
     "Metodos Numericos/Practica/Practico 7.2.md",
@@ -402,18 +414,9 @@
     "Redes/Correo Investigación.md",
     "Metodos Numericos/Temas 1er Parcial.md",
     "Metodos Numericos/Formulas Markdown.md",
-    "Metodos Numericos/Practica/Practico 4.2.2.md",
-    "Metodos Numericos/Practica/Practico 4.2.1.md",
-    "Metodos Numericos/Practica/Practico 5.1.md",
     "Metodos Numericos/Practica/Practico 4.3.md",
     "Metodos Numericos/Practica/Practico 4.4.md",
-    "Metodos Numericos/Practica/Practico 5.2.md",
-    "Metodos Numericos/Practica/Practico 5.4.md",
-    "Metodos Numericos/Practica/Practico 6.1.md",
     "Metodos Numericos/Practica/Practico 4.2.md",
-    "Metodos Numericos/Teoria/TEMA 4.1.md",
-    "Metodos Numericos/Teoria/Interpolación Numerica con Newton-Gregory Ascendente.md",
-    "Metodos Numericos/Practica/Practico 6.2.md",
     "BD2/Pasted image 20241022160625.png",
     "images/grafico_area_rio_simpsom.png",
     "BD2/Pasted image 20241022131859.png",

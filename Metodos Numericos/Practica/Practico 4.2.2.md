@@ -221,6 +221,23 @@ $$
 -0.5&1&-0.5\\
 0&0.5&2/3
 \end{pmatrix}*
+\begin{pmatrix}
+2\\1\\ \frac{2}{9}
+\end{pmatrix}=
+\begin{pmatrix}
+3.5\\
+-\frac{1}{9}\\
+\frac{35}{54}
+\end{pmatrix}=
+\frac{2}{18}
+\begin{pmatrix}
+7\\
+-1\\
+\frac{35}{6}
+\end{pmatrix}
+$$
+$$
+E = \left|\frac{\frac{2}{54}-\frac{9}{12}}{\frac{2}{54}}\right|*100
 $$
 
 

@@ -1,6 +1,6 @@
 {
   "pdfExportSettings": {
-    "includeName": false,
+    "includeName": true,
     "pageSize": "A3",
     "landscape": false,
     "margin": "2",
