@@ -83,12 +83,14 @@
             "id": "eb2e15dc8aa34227",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Metodos Numericos/PDFs/Diferenciación numérica.pdf"
+                "file": "Metodos Numericos/Practica/Practico 2.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Diferenciación numérica"
+              "icon": "lucide-file",
+              "title": "Practico 2"
             }
           }
         ],
@@ -148,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ce6f7f4f609835cb",
@@ -275,17 +278,22 @@
   },
   "active": "eb2e15dc8aa34227",
   "lastOpenFiles": [
-    "Metodos Numericos/PDFs/CV.pdf",
+    "Metodos Numericos/Practica/PDF/Practico 2.pdf",
+    "Metodos Numericos/Practica/Practico 1.md",
+    "Metodos Numericos/Practica/PDF/Practico 1.pdf",
+    "Metodos Numericos/Practica/Modelo de Parcial.md",
+    "Metodos Numericos/Practica/PDF/Modelo de Parcial.pdf",
+    "Metodos Numericos/Practica/Informe_TP6.md",
+    "Metodos Numericos/Practica/PDF/Informe_TP6.pdf",
+    "Metodos Numericos/Modelo de Parcial 2.md",
+    "Metodos Numericos/Practica/PDF",
+    "Metodos Numericos/Temas 1er Parcial.md",
     "Metodos Numericos/PDFs/Diferenciación numérica.pdf",
+    "Metodos Numericos/PDFs/CV.pdf",
     "Metodos Numericos/PDFs/discord-0.0.75.deb",
     "Metodos Numericos/PDFs/Sin confirmar 839336.crdownload",
     "Metodos Numericos/PDFs/Método de Euler y modificado de Euler.pdf",
     "Metodos Numericos/PDFs/Método de eliminación de Gauss.pdf",
-    "Metodos Numericos/PDFs/Método de eliminación de Gauss.pdf.crdownload",
-    "Metodos Numericos/PDFs/Método de las potencias.pdf",
-    "Metodos Numericos/PDFs/Lagrange e Interpolación inversa.pdf",
-    "Metodos Numericos/PDFs/LaboratoriosParte1 (1).pdf",
-    "Metodos Numericos/PDFs/LaboratoriosParte1.pdf",
     "Metodos Numericos/Gauss.md",
     "Redes/Packet Tracer.md",
     "Redes/Cosas.md",
@@ -300,7 +308,6 @@
     "Redes/Correo Investigación.md",
     "images/Pasted image 20241022122044.png",
     "Diplomatura/Diplomatura 11-9.md",
-    "Metodos Numericos/Modelo de Parcial 2.md",
     "Metodos Numericos/Modelo de Parcial.md",
     "Metodos Numericos/Practica/Practico 6.2.md",
     "Metodos Numericos/Practica/Practico 6.3.md",
@@ -308,11 +315,7 @@
     "Metodos Numericos/Practica/Practico 5.2.md",
     "Metodos Numericos/Practica/Practico 5.4.md",
     "Metodos Numericos/Practica/Practico 6.1.md",
-    "Metodos Numericos/Practica/Practico 4.2.2.md",
-    "Sin título.md",
     "Metodos Numericos/PDFs/comprobanteDiplomaturaCuota7.png",
-    "Tasks.md",
-    "Diplomatura/2-10 Modulo 5.md",
     "images/Pasted image 20241022160625.png",
     "images/grafico_area_rio_simpsom.png",
     "images/Pasted image 20241022131859.png",

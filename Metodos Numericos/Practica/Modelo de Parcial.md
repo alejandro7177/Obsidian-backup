@@ -1,6 +1,9 @@
-Dada la ecuación:$$
+Dada la ecuación:
+
+$$
 e^x +x_2-7 =0
 $$
+
 1. Separar una raiz negativa con el metodo de tanteo
 2. Aproxima la raíz separada con el metodo de interpolación lineal, iterando 3 veces al metodo (trabajar con 4 decimales)
 3. Calcular el error cometido en la determinación de la raíz aproximada
@@ -61,6 +64,7 @@ $$
 1/2&-1&1/3
 \end{pmatrix}
 $$
+
 $$
 \begin{align}
 F_2+F1\rightarrow F_2\\
@@ -75,13 +79,16 @@ $$
 0&-3/2&-1/6
 \end{pmatrix}
 $$
+
 $$
 F_3 +\frac{3}{4}F_2$$
+
 $$\begin{pmatrix}
 1&1&1\\
 0&2&2\\
 0&0&4/3
 \end{pmatrix}$$
+
 $$
 \begin{pmatrix}
 1&1&1\\
@@ -98,7 +105,9 @@ $$
 0&0&4/3
 \end{pmatrix}
 $$
+
 $$L*y = b$$
+
 $$
 \begin{bmatrix}
 1&0&0\\
@@ -114,9 +123,12 @@ y_1=42\\
 \frac{1}{2}y_1-\frac{3}{4}y_2+y_3= 0 \rightarrow y_3 =-10.5
 \end{matrix}
 \right.
-$$$$
+$$
+
+$$
 U*x=y
 $$
+
 $$
 \begin{bmatrix}
 1&1&1\\
