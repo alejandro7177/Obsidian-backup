@@ -8,196 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4d234e25dcbd2b6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Metodos Numericos/PDFs/Tema 5.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Tema 5"
-            }
-          },
-          {
-            "id": "8c99f1d8ee097564",
+            "id": "37a9604b019e0160",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodos Numericos/Practica/Practico 5.4.md",
+                "file": "Redes/Packet Tracer.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Practico 5.4"
+              "title": "Packet Tracer"
             }
           },
           {
-            "id": "80bc017cf99734c0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Metodos Numericos/PDFs/Hoja de fórmulas 2021.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Hoja de fórmulas 2021"
-            }
-          },
-          {
-            "id": "e1415d048f0f0339",
+            "id": "7a1c42aee964ca92",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodos Numericos/Practica/Practico 7.1.md",
-                "mode": "source",
+                "file": "Redes/Cosas.md",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Practico 7.1"
+              "title": "Cosas"
             }
           },
           {
-            "id": "f402b28e8ea92d19",
+            "id": "d22603ffa314debc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodos Numericos/Teoria/Interpolación Numerica con Newton-Gregory Ascendente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interpolación Numerica con Newton-Gregory Ascendente"
-            }
-          },
-          {
-            "id": "97062802d20bc164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metodos Numericos/Teoria/Interpolación Numerica con Newton-Gregory Descendente.md",
+                "file": "Redes/Apuntes/16-10-2024.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interpolación Numerica con Newton-Gregory Descendente"
+              "title": "16-10-2024"
             }
           },
           {
-            "id": "ad081b0257b68b43",
+            "id": "97a3a019573c4d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metodos Numericos/Practica/Practico 6.1.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practico 6.1"
-            }
-          },
-          {
-            "id": "5c3965b0febac57e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Metodos Numericos/PDFs/Lagrange e Interpolación inversa.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Lagrange e Interpolación inversa"
-            }
-          },
-          {
-            "id": "ab0f437ea22b95e7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Metodos Numericos/PDFs/TP 4 Tema 7.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "TP 4 Tema 7"
-            }
-          },
-          {
-            "id": "2c2c69e432212c45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diplomatura/Diplomatura 11-9.md",
+                "file": "Redes/Apuntes/16-10-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diplomatura 11-9"
+              "title": "16-10-2024"
             }
           },
           {
-            "id": "131c492710348c94",
+            "id": "ca70469a0da5f960",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-31 16.35.41.excalidraw.md"
+                "file": "Metodos Numericos/PDFs/Método de eliminación de Gauss.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-31 16.35.41.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "Método de eliminación de Gauss"
             }
           },
           {
-            "id": "2333fc48162e5f74",
+            "id": "eb2e15dc8aa34227",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-01 17.20.56.excalidraw.md"
+                "file": "Metodos Numericos/PDFs/Diferenciación numérica.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-01 17.20.56.excalidraw"
-            }
-          },
-          {
-            "id": "253ab48f6164f83d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tasks.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Tasks"
+              "icon": "lucide-file-text",
+              "title": "Diferenciación numérica"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -378,11 +273,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c2c69e432212c45",
+  "active": "eb2e15dc8aa34227",
   "lastOpenFiles": [
-    "Metodos Numericos/Modelo de Parcial 2.md",
-    "Diplomatura/Diplomatura 11-9.md",
+    "Metodos Numericos/PDFs/CV.pdf",
+    "Metodos Numericos/PDFs/Diferenciación numérica.pdf",
+    "Metodos Numericos/PDFs/discord-0.0.75.deb",
+    "Metodos Numericos/PDFs/Sin confirmar 839336.crdownload",
+    "Metodos Numericos/PDFs/Método de Euler y modificado de Euler.pdf",
+    "Metodos Numericos/PDFs/Método de eliminación de Gauss.pdf",
+    "Metodos Numericos/PDFs/Método de eliminación de Gauss.pdf.crdownload",
+    "Metodos Numericos/PDFs/Método de las potencias.pdf",
+    "Metodos Numericos/PDFs/Lagrange e Interpolación inversa.pdf",
+    "Metodos Numericos/PDFs/LaboratoriosParte1 (1).pdf",
+    "Metodos Numericos/PDFs/LaboratoriosParte1.pdf",
+    "Metodos Numericos/Gauss.md",
+    "Redes/Packet Tracer.md",
+    "Redes/Cosas.md",
+    "Redes/Apuntes/16-10-2024.md",
+    "Redes/Apuntes Redes de Datos.md",
+    "Redes/comandos.md",
+    "Redes/Apuntes/9-10-2024.md",
+    "Metodos Numericos/Practica/Practico 4.2.md",
     "Metodos Numericos/Practica/Practico 4.2.1.md",
+    "Metodos Numericos/Practica/Practico 4.1.md",
+    "Redes/Apuntes/AVR_y_OSPF.excalidraw.md",
+    "Redes/Correo Investigación.md",
+    "images/Pasted image 20241022122044.png",
+    "Diplomatura/Diplomatura 11-9.md",
+    "Metodos Numericos/Modelo de Parcial 2.md",
     "Metodos Numericos/Modelo de Parcial.md",
     "Metodos Numericos/Practica/Practico 6.2.md",
     "Metodos Numericos/Practica/Practico 6.3.md",
@@ -391,40 +309,17 @@
     "Metodos Numericos/Practica/Practico 5.4.md",
     "Metodos Numericos/Practica/Practico 6.1.md",
     "Metodos Numericos/Practica/Practico 4.2.2.md",
-    "BD2/APUNTES ESTEBAN.pdf",
     "Sin título.md",
     "Metodos Numericos/PDFs/comprobanteDiplomaturaCuota7.png",
-    "Metodos Numericos/PDFs/comprobanteDiplomaturaCuota7.png.crdownload",
     "Tasks.md",
     "Diplomatura/2-10 Modulo 5.md",
-    "Metodos Numericos/PDFs/Tema 5.pdf",
-    "Excalidraw/Drawing 2024-11-01 17.20.56.excalidraw.md",
-    "Metodos Numericos/PDFs/autoencoder-aves_v1.ipynb",
-    "Metodos Numericos/PDFs/Sin confirmar 447615.crdownload",
-    "Metodos Numericos/PDFs/LaboratoriosParte1.pdf.crdownload",
-    "Metodos Numericos/PDFs/LaboratoriosParte1 (1).pdf",
-    "Metodos Numericos/PDFs/LaboratoriosParte1 (1).pdf.crdownload",
-    "Excalidraw/Drawing 2024-10-31 16.35.41.excalidraw.md",
-    "Metodos Numericos/PDFs/LaboratoriosParte1.pdf",
-    "Metodos Numericos/PDFs/MetodosNumericosGrupo9 (1).pdf",
-    "Metodos Numericos/Practica/Practico 7.1.md",
-    "Trabajo/Hubby.md",
-    "Metodos Numericos/Practica/Practico 7.2.md",
-    "Metodos Numericos/Temas 2do Parcial.md",
-    "Redes/Correo Investigación.md",
-    "Metodos Numericos/Temas 1er Parcial.md",
-    "Metodos Numericos/Formulas Markdown.md",
-    "Metodos Numericos/Practica/Practico 4.3.md",
-    "Metodos Numericos/Practica/Practico 4.4.md",
-    "Metodos Numericos/Practica/Practico 4.2.md",
-    "BD2/Pasted image 20241022160625.png",
+    "images/Pasted image 20241022160625.png",
     "images/grafico_area_rio_simpsom.png",
-    "BD2/Pasted image 20241022131859.png",
-    "BD2/Pasted image 20241022131849.png",
-    "BD2/Pasted image 20241022124722.png",
-    "BD2/Pasted image 20241022124714.png",
-    "BD2/Pasted image 20241022122114.png",
-    "BD2/Pasted image 20241022122104.png",
-    "BD2/Pasted image 20241022122044.png"
+    "images/Pasted image 20241022131859.png",
+    "images/Pasted image 20241022131849.png",
+    "images/Pasted image 20241022124722.png",
+    "images/Pasted image 20241022124714.png",
+    "images/Pasted image 20241022122114.png",
+    "images/Pasted image 20241022122104.png"
   ]
 }
